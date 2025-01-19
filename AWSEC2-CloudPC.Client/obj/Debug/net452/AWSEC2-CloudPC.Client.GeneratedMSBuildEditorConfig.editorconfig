@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = app.manifest
+build_property.StartupObject = AWSEC2-CloudPC.Client.Program
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = AWSEC2-CloudPC.Client
+build_property.ProjectDir = C:\Users\user\Downloads\Quasar-master\Quasar-master\AWSEC2-CloudPC.Client\
